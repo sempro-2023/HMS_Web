@@ -26,3 +26,6 @@ For updates and reports visit: https://www.studentprojectguide.com/php/online-ho
 
 # Files:
 XAMPP -> xamppfiles -> htdocs -> Hospital (folder)
+
+# SQL Files:
+backup -> onlinehospitalmanagementsystem.sql
