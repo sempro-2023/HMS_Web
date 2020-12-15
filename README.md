@@ -21,3 +21,8 @@ Billing module
 Order module
 
 For updates and reports visit: https://www.studentprojectguide.com/php/online-hospital-management-system/
+
+
+
+# Files:
+XAMPP -> xamppfiles -> htdocs -> Hospital (folder)
