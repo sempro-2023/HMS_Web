@@ -26,6 +26,7 @@ For updates and reports visit: https://www.studentprojectguide.com/php/online-ho
 
 # Files:
 XAMPP -> xamppfiles -> htdocs -> Hospital (folder)
+### xampp-osx-7.2.34-0-installer
 
 # SQL Files:
 backup -> [onlinehospitalmanagementsystem.sql](https://github.com/atindra305/HMS_Web/blob/main/backup/onlinehospitalmanagementsystem.sql)
