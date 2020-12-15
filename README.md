@@ -28,4 +28,4 @@ For updates and reports visit: https://www.studentprojectguide.com/php/online-ho
 XAMPP -> xamppfiles -> htdocs -> Hospital (folder)
 
 # SQL Files:
-backup -> onlinehospitalmanagementsystem.sql
+backup -> [onlinehospitalmanagementsystem.sql](https://github.com/atindra305/HMS_Web/blob/main/backup/onlinehospitalmanagementsystem.sql)
