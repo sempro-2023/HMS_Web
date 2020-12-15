@@ -29,3 +29,5 @@ XAMPP -> xamppfiles -> htdocs -> Hospital (folder)
 
 # SQL Files:
 backup -> [onlinehospitalmanagementsystem.sql](https://github.com/atindra305/HMS_Web/blob/main/backup/onlinehospitalmanagementsystem.sql)
+
+### [Relational Tables](https://github.com/atindra305/HMS_Web/blob/main/Relational%20Table.pdf)
