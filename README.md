@@ -1,4 +1,6 @@
 # Online-Hospital-Management-System
+2nd Year 3rd Semester Project
+
 HMS Project which covers all the aspects of hospital.
 
 Online Hospital Management System:
@@ -22,6 +24,11 @@ Order module
 
 For updates and reports visit: https://www.studentprojectguide.com/php/online-hospital-management-system/
 
+# Team Members:
+1. [Pranjal Bhardwaj](https://github.com/decimatormind)
+2. Anubhuti Khare
+3. [Atindra Shekhar](https://github.com/atindra305)
+4. [Sadhil Chhabra](https://github.com/sadhilchhabra)
 
 
 # Files:
